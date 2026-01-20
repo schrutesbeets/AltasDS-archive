@@ -1,0 +1,139 @@
+
+
+:root {
+    /* =========================== */
+    /* "Native" theme configuration */
+    /* =========================== */
+
+    
+    --fontFamily: Inter, Arial, sans-serif;
+    
+    --colorAccent: #002b11;
+    --colorAccentAlt: #00852f;
+    --colorAccentSurface: #f7f7f7;
+    
+    --contentMaxWidth: 1000px;
+    
+    --iconStrokeWidth: 1.5;
+    
+    --topNavHeight: 68px;
+    --logoHeight: 28px;
+    
+    --pageHeaderInk: #002b11;
+    --pageHeaderBackground: #ffffff;
+}
+
+@font-face {
+    font-family: "Georgia";
+    src: url("https://studio-assets.supernova.io/design-systems/142451/georgia-italic-1747062745147.ttf") format("truetype");
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Georgia";
+    src: url("https://studio-assets.supernova.io/design-systems/142451/georgia-regular-1747062748467.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Trip Sans";
+    src: url("https://studio-assets.supernova.io/design-systems/142451/trip-sans-italic.ttf") format("truetype");
+    font-weight: 400;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Trip Sans Mono";
+    src: url("https://studio-assets.supernova.io/design-systems/142451/trip-sans-mono-regular.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Trip Sans";
+    src: url("https://studio-assets.supernova.io/design-systems/142451/trip-sans-bold.otf") format("opentype");
+    font-weight: 700;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Trip Sans";
+    src: url("https://studio-assets.supernova.io/design-systems/142451/trip-sans-ultra.ttf") format("truetype");
+    font-weight: 900;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Trip Sans";
+    src: url("https://studio-assets.supernova.io/design-systems/142451/trip-sans-medium-italic.otf") format("opentype");
+    font-weight: 500;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Trip Sans";
+    src: url("https://studio-assets.supernova.io/design-systems/142451/trip-sans-medium-1736439488402.otf") format("opentype");
+    font-weight: 500;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Trip Sans";
+    src: url("https://studio-assets.supernova.io/design-systems/142451/trip-sans-bold-italic-1736439525601.ttf") format("truetype");
+    font-weight: 700;
+    font-style: italic;
+}
+@font-face {
+    font-family: "Trip Sans";
+    src: url("https://studio-assets.supernova.io/design-systems/142451/trip-sans-regular.otf") format("opentype");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Poppins";
+    src: url("https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrFJDUc1NECPY.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+@font-face {
+    font-family: "Roboto Mono";
+    src: url("https://fonts.gstatic.com/s/robotomono/v23/L0xuDF4xlVMF-BfR8bXMIhJHg45mwgGEFl0_3vqPQ--5Ip2sSQ.ttf") format("truetype");
+    font-weight: 400;
+    font-style: normal;
+}
+
+ 
+.side-navigation-wrapper {
+    --sideNavBackground: #fcfcfc !important;
+}
+
+ 
+#header {
+    --topNavBackground: #fcfcfc !important;
+    --topNavBorderColor: #fcfcfc !important;
+}
+
+/* Advanced theme configuration */
+@font-face {
+  font-family: "TripSans";
+  src: url("https://static.tacdn.com/css2/webfonts/TripSans/TripSans-VF.woff2?v1.002") format("woff2");
+}
+
+:root {
+    --font-family-poppins: "Poppins";
+    --font-family-trip-sans: "TripSans";
+}
+
+* {
+    font-family: var(--font-family-trip-sans) !important;
+}
+
+.page-title {
+  font-family: var(--font-family-trip-sans) !important;
+  font-weight: 900 !important; 
+  font-size: 95px !important;
+  line-height: 1.1 !important;
+}
+
+
+
+
+ /* Custom CSS overrides */
+body,
+html {
+
+}

@@ -25,61 +25,61 @@
 
 @font-face {
     font-family: "Georgia";
-    src: url("https://studio-assets.supernova.io/design-systems/142451/georgia-italic-1747062745147.ttf") format("truetype");
+    src: url("../../../../assets/georgia-italic-1747062745147.ttf") format("truetype");
     font-weight: 400;
     font-style: italic;
 }
 @font-face {
     font-family: "Georgia";
-    src: url("https://studio-assets.supernova.io/design-systems/142451/georgia-regular-1747062748467.ttf") format("truetype");
+    src: url("../../../../assets/georgia-regular-1747062748467.ttf") format("truetype");
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
     font-family: "Trip Sans";
-    src: url("https://studio-assets.supernova.io/design-systems/142451/trip-sans-italic.ttf") format("truetype");
+    src: url("../../../../assets/trip-sans-italic.ttf") format("truetype");
     font-weight: 400;
     font-style: italic;
 }
 @font-face {
     font-family: "Trip Sans Mono";
-    src: url("https://studio-assets.supernova.io/design-systems/142451/trip-sans-mono-regular.ttf") format("truetype");
+    src: url("../../../../assets/trip-sans-mono-regular.ttf") format("truetype");
     font-weight: 400;
     font-style: normal;
 }
 @font-face {
     font-family: "Trip Sans";
-    src: url("https://studio-assets.supernova.io/design-systems/142451/trip-sans-bold.otf") format("opentype");
+    src: url("../../../../assets/trip-sans-bold.otf") format("opentype");
     font-weight: 700;
     font-style: normal;
 }
 @font-face {
     font-family: "Trip Sans";
-    src: url("https://studio-assets.supernova.io/design-systems/142451/trip-sans-ultra.ttf") format("truetype");
+    src: url("../../../../assets/trip-sans-ultra.ttf") format("truetype");
     font-weight: 900;
     font-style: normal;
 }
 @font-face {
     font-family: "Trip Sans";
-    src: url("https://studio-assets.supernova.io/design-systems/142451/trip-sans-medium-italic.otf") format("opentype");
+    src: url("../../../../assets/trip-sans-medium-italic.otf") format("opentype");
     font-weight: 500;
     font-style: italic;
 }
 @font-face {
     font-family: "Trip Sans";
-    src: url("https://studio-assets.supernova.io/design-systems/142451/trip-sans-medium-1736439488402.otf") format("opentype");
+    src: url("../../../../assets/trip-sans-medium-1736439488402.otf") format("opentype");
     font-weight: 500;
     font-style: normal;
 }
 @font-face {
     font-family: "Trip Sans";
-    src: url("https://studio-assets.supernova.io/design-systems/142451/trip-sans-bold-italic-1736439525601.ttf") format("truetype");
+    src: url("../../../../assets/trip-sans-bold-italic-1736439525601.ttf") format("truetype");
     font-weight: 700;
     font-style: italic;
 }
 @font-face {
     font-family: "Trip Sans";
-    src: url("https://studio-assets.supernova.io/design-systems/142451/trip-sans-regular.otf") format("opentype");
+    src: url("../../../../assets/trip-sans-regular.otf") format("opentype");
     font-weight: 400;
     font-style: normal;
 }
